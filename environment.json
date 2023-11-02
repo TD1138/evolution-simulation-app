@@ -1,0 +1,5 @@
+{
+    "environment_size": {"width":10, "height":10},
+    "initial_organisms": 1,
+    "initial_food": 5
+}
