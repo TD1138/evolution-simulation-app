@@ -1,0 +1,6 @@
+{
+    "environment_size": {"width":10, "height":10},
+    "initial_organisms": 1,
+    "initial_food": 5,
+    "organism_neural_network_settings": {"inputs":1, "hidden_nodes":5, "outputs":2}
+}
